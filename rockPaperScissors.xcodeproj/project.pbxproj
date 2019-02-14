@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		068F4F10221366AD00D4635E /* TIcTacToeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068F4F0F221366AD00D4635E /* TIcTacToeViewController.swift */; };
 		0695779D21E546DE0090D324 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0695779C21E546DE0090D324 /* AppDelegate.swift */; };
 		0695779F21E546DE0090D324 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0695779E21E546DE0090D324 /* ViewController.swift */; };
 		069577A221E546DE0090D324 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 069577A021E546DE0090D324 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		068F4F0F221366AD00D4635E /* TIcTacToeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TIcTacToeViewController.swift; sourceTree = "<group>"; };
 		0695779921E546DE0090D324 /* rockPaperScissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rockPaperScissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0695779C21E546DE0090D324 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0695779E21E546DE0090D324 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				0695779C21E546DE0090D324 /* AppDelegate.swift */,
 				0695779E21E546DE0090D324 /* ViewController.swift */,
+				068F4F0F221366AD00D4635E /* TIcTacToeViewController.swift */,
 				069577A021E546DE0090D324 /* Main.storyboard */,
 				069577A321E546DF0090D324 /* Assets.xcassets */,
 				069577A521E546DF0090D324 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				0695779F21E546DE0090D324 /* ViewController.swift in Sources */,
 				0695779D21E546DE0090D324 /* AppDelegate.swift in Sources */,
+				068F4F10221366AD00D4635E /* TIcTacToeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
